@@ -1,6 +1,6 @@
 # KM-BASIC版 `sl`
 
-`SL.BAS`は、Toyoda Masashi氏の`sl` 5.03(https://github.com/mtoyoda/sl)をKM-BASIC向けに移植したものです。D51、C51、LONG編成が、煙と6コマの動輪アニメーションを伴って画面右端から左端へ走ります。
+`SL.BAS`は、Toyoda Masashi氏の`sl` 5.03(https://github.com/mtoyoda/sl )をKM-BASIC向けに移植したものです。D51、C51、LONG編成が、煙と6コマの動輪アニメーションを伴って画面右端から左端へ走ります。
 
 ## 実行
 
